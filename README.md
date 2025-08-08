@@ -1,0 +1,1 @@
+# ScrapeGraphAI-Web-Insights-Tool
